@@ -3,7 +3,7 @@
 A lightweight, self-hosted GitHub contribution streak card — built after the popular streak-stats services kept going down from shared rate limits.
 
 <p align="center">
-  <img src="https://github-streak-svg.vercel.app/api/streak?username=MR1229&theme=dark" alt="Example streak card" />
+  <img src="https://github-streak-svg.vercel.app/api/streak?username=MaheshRPawar&theme=dark" alt="Example streak card" />
 </p>
 
 ## Why this exists
